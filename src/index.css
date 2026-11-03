@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* @layer components {
+    .mycontainer {
+        @apply container mx-auto px-24 py-16;
+    }
+} */
